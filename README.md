@@ -1,4 +1,4 @@
-# android-updates
-This repo stores Android Updates from me.
+# FurnaceOS Updates
+This repo stores FurnaceOS Updates from me.
 Will not be used **yet**
 
