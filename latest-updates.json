@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1230764400,
+      "filename": "update.zip",
+      "id": "version1",
+      "romtype": "nightly",
+      "size": 0,
+      "url": "https://raw.githubusercontent.com/FurnaceOS/android-updates/refs/heads/main/update.zip",
+      "version": "15.1"
+    }
+  ]
+}
